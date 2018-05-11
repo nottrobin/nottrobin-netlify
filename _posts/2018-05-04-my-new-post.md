@@ -8,4 +8,4 @@ dfsdfgsdfg
 
 <b>fish</b>
 
-<div>This <b>is</b> a div</div>
+<div markdown>This *is* a div</div>
