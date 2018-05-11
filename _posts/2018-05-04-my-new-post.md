@@ -6,6 +6,9 @@ title: My new post
 
 dfsdfgsdfg
 
-<b>fish</b>
+<!-- bullet-list -->
+
+- hello
+- world
 
 <div markdown>This *is* a div</div>
