@@ -4,4 +4,11 @@ title: My new post
 ---
 # Hello world
 
-What's up with you?
+dfsdfgsdfg
+
+<!-- bullet-list -->
+
+- hello
+- world
+
+<div markdown>This *is* a div</div>
